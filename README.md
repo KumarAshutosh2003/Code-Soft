@@ -9,7 +9,7 @@ This Repository contains my Data Science projects.
 <br>
 Project chosen by me are :
 <br>
-1. Titanic Survivor Prediction
+1.Titanic Survivor Prediction
 <br>
 2. Movie Rating Prediction with python
 <br>
