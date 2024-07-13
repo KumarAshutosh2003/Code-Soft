@@ -1,4 +1,16 @@
 # Code-Soft
-This Repository contains my Data Science projects
+Author : Kumar Ashutosh
 <br>
-This project is named as titanic survivor problem
+Batch : June A58
+<br>
+Domain : Data Science
+<br>
+This Repository contains my Data Science projects.
+<br>
+Project chosen by me are :
+<br>
+1. Titanic Survivor Prediction
+<br>
+2.Movie Rating Prediction with python
+<br>
+3.
