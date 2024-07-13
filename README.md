@@ -11,6 +11,6 @@ Project chosen by me are :
 <br>
 1. Titanic Survivor Prediction
 <br>
-2.Movie Rating Prediction with python
+2. Movie Rating Prediction with python
 <br>
-3.
+3. Sales Prediction Using Python
